@@ -33,7 +33,7 @@
     "flangeThickness": "3.0",
     "servoShaftSideHeight": "28.1",
     "shaftToShortSideFlandgeEdge": "12.2",
-    "servoThinDimentionThickness": 12.3
+    "servoThinDimentionThickness": "12.3"
   },
   "script": {
     "git": "https://gist.github.com/3f9fef17b23acfadf3f7.git",
