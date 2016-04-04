@@ -24,7 +24,7 @@
     "servoThinDimentionThickness": 19.5
   },
   "Dynam": {
-    "outputShaftDiameter": 4.4,
+    "outputShaftDiameter": "4.5",
     "shaftToShortSideDistance": 6.4,
     "bottomOfFlangeToTopOfBody": 11.8,
     "flangeLongDimention": 35.0,
