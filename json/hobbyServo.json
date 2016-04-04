@@ -23,8 +23,8 @@
     "shaftToShortSideFlandgeEdge": 18.3,
     "servoThinDimentionThickness": 19.5
   },
-  "Dynam": {
-    "outputShaftDiameter": "4.5",
+  "NewSize": {
+    "outputShaftDiameter": "4.4",
     "shaftToShortSideDistance": "6.4",
     "bottomOfFlangeToTopOfBody": "11.8",
     "flangeLongDimention": "35.0",
@@ -34,6 +34,18 @@
     "servoShaftSideHeight": "28.1",
     "shaftToShortSideFlandgeEdge": "12.2",
     "servoThinDimentionThickness": "12.3"
+  },
+  "Dynam": {
+    "outputShaftDiameter": 4.4,
+    "shaftToShortSideDistance": 6.4,
+    "bottomOfFlangeToTopOfBody": 11.8,
+    "flangeLongDimention": 35.0,
+    "tipOfShaftToBottomOfFlange": 17.0,
+    "servoThickDimentionThickness": 23.6,
+    "flangeThickness": 3.0,
+    "servoShaftSideHeight": 28.1,
+    "shaftToShortSideFlandgeEdge": 12.2,
+    "servoThinDimentionThickness": 12.3
   },
   "script": {
     "git": "https://gist.github.com/3f9fef17b23acfadf3f7.git",
