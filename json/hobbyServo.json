@@ -25,7 +25,7 @@
   },
   "Dynam": {
     "outputShaftDiameter": "4.5",
-    "shaftToShortSideDistance": 6.4,
+    "shaftToShortSideDistance": "6.4",
     "bottomOfFlangeToTopOfBody": 11.8,
     "flangeLongDimention": 35.0,
     "tipOfShaftToBottomOfFlange": 17.0,
