@@ -23,42 +23,6 @@
     "shaftToShortSideFlandgeEdge": 18.3,
     "servoThinDimentionThickness": 19.5
   },
-  "NewSize": {
-    "outputShaftDiameter": "5.6",
-    "shaftToShortSideDistance": "10.7",
-    "bottomOfFlangeToTopOfBody": "11.2",
-    "flangeLongDimention": "56.5",
-    "tipOfShaftToBottomOfFlange": "18.5",
-    "servoThickDimentionThickness": "41.0",
-    "flangeThickness": "3.0",
-    "servoShaftSideHeight": "38.3",
-    "shaftToShortSideFlandgeEdge": "18.3",
-    "servoThinDimentionThickness": "19.5"
-  },
-  "Test": {
-    "outputShaftDiameter": 5.6,
-    "shaftToShortSideDistance": 10.7,
-    "bottomOfFlangeToTopOfBody": 11.2,
-    "flangeLongDimention": 56.5,
-    "tipOfShaftToBottomOfFlange": 18.5,
-    "servoThickDimentionThickness": 41.0,
-    "flangeThickness": 3.0,
-    "servoShaftSideHeight": 38.3,
-    "shaftToShortSideFlandgeEdge": 18.3,
-    "servoThinDimentionThickness": 19.5
-  },
-  "TestServo": {
-    "outputShaftDiameter": "5.6",
-    "shaftToShortSideDistance": "10.7",
-    "bottomOfFlangeToTopOfBody": "11.2",
-    "flangeLongDimention": "56.5",
-    "tipOfShaftToBottomOfFlange": "18.5",
-    "servoThickDimentionThickness": "41.0",
-    "flangeThickness": "3.0",
-    "servoShaftSideHeight": "38.3",
-    "shaftToShortSideFlandgeEdge": "18.3",
-    "servoThinDimentionThickness": "19.5"
-  },
   "script": {
     "git": "https://gist.github.com/3f9fef17b23acfadf3f7.git",
     "file": "servo.groovy"
