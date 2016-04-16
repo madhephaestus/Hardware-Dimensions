@@ -1,0 +1,52 @@
+{
+  "GenericNEMA11": {
+    "mountScrew": "M3",
+    "flangeHeight": 2.0,
+    "flangeDiameter": 22.0,
+    "length": 26.0,
+    "width": 35.2,
+    "mountSpacing": 26.0,
+    "shaftLength": 21.0,
+    "shaftDiameter": 5.0
+  },
+  "GenericNEMA14": {
+    "mountScrew": "M3",
+    "flangeHeight": 2.0,
+    "flangeDiameter": 22.0,
+    "length": 36.0,
+    "width": 35.2,
+    "mountSpacing": 26.0,
+    "shaftLength": 21.0,
+    "shaftDiameter": 5.0
+  },
+  "GenericNEMA17": {
+    "mountScrew": "M3",
+    "flangeHeight": 2.0,
+    "flangeDiameter": 22.0,
+    "length": 48.0,
+    "width": 42.3,
+    "mountSpacing": 31.0,
+    "shaftLength": 23.0,
+    "shaftDiameter": 5.0
+  },
+  "GenericNEMA8": {
+    "mountScrew": "M2",
+    "flangeHeight": 1.5,
+    "flangeDiameter": 15.0,
+    "length": 30.0,
+    "width": 20.3,
+    "mountSpacing": 16.0,
+    "shaftLength": 14.0,
+    "shaftDiameter": 4.0
+  },
+  "Pololu35x26": {
+    "mountScrew": "M3",
+    "flangeHeight": 2.0,
+    "flangeDiameter": 22.0,
+    "length": 26.0,
+    "width": 35.2,
+    "mountSpacing": 26.0,
+    "shaftLength": 21.0,
+    "shaftDiameter": 5.0
+  }
+}

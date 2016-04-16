@@ -1,0 +1,67 @@
+{
+  "standardMicro": {
+    "outputShaftDiameter": 4.4,
+    "shaftToShortSideDistance": 6.4,
+    "bottomOfFlangeToTopOfBody": 11.8,
+    "flangeLongDimention": 35.0,
+    "tipOfShaftToBottomOfFlange": 17.0,
+    "servoThickDimentionThickness": 23.6,
+    "flangeThickness": 3.0,
+    "servoShaftSideHeight": 28.1,
+    "shaftToShortSideFlandgeEdge": 12.2,
+    "servoThinDimentionThickness": 12.3
+  },
+  "standard": {
+    "outputShaftDiameter": 5.6,
+    "shaftToShortSideDistance": 10.7,
+    "bottomOfFlangeToTopOfBody": 11.2,
+    "flangeLongDimention": 56.5,
+    "tipOfShaftToBottomOfFlange": 18.5,
+    "servoThickDimentionThickness": 41.0,
+    "flangeThickness": 3.0,
+    "servoShaftSideHeight": 38.3,
+    "shaftToShortSideFlandgeEdge": 18.3,
+    "servoThinDimentionThickness": 19.5
+  },
+  "Dynam": {
+    "outputShaftDiameter": 4.4,
+    "shaftToShortSideDistance": 6.4,
+    "bottomOfFlangeToTopOfBody": 11.8,
+    "flangeLongDimention": 35.0,
+    "tipOfShaftToBottomOfFlange": 17.0,
+    "servoThickDimentionThickness": 23.6,
+    "flangeThickness": 3.0,
+    "servoShaftSideHeight": 28.1,
+    "shaftToShortSideFlandgeEdge": 12.2,
+    "servoThinDimentionThickness": 12.3
+  },
+  "towerProMG91": {
+    "outputShaftDiameter": "4.4",
+    "shaftToShortSideDistance": "6.8",
+    "bottomOfFlangeToTopOfBody": "9.4",
+    "flangeLongDimention": "32",
+    "tipOfShaftToBottomOfFlange": "13.9",
+    "servoThickDimentionThickness": "22.8",
+    "flangeThickness": "2",
+    "servoShaftSideHeight": "31.5",
+    "shaftToShortSideFlandgeEdge": "10.8",
+    "servoThinDimentionThickness": "11.8"
+  },
+  "meta": {
+    "scriptGit": "https://gist.github.com/3f9fef17b23acfadf3f7.git",
+    "scriptFile": "servo.groovy",
+    "actuator":"true"
+  },
+  "es08maII": {
+    "outputShaftDiameter": 4.4,
+    "shaftToShortSideDistance": 6.4,
+    "bottomOfFlangeToTopOfBody": 11.8,
+    "flangeLongDimention": 35.0,
+    "tipOfShaftToBottomOfFlange": 17.0,
+    "servoThickDimentionThickness": 23.6,
+    "flangeThickness": 3.0,
+    "servoShaftSideHeight": 28.1,
+    "shaftToShortSideFlandgeEdge": 12.2,
+    "servoThinDimentionThickness": 12.3
+  }
+}

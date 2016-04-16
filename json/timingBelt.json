@@ -1,0 +1,57 @@
+{
+  "AT10": {
+    "height": 4.5,
+    "pitch": 10.0,
+    "toothHeight": 2.5
+  },
+  "AT20": {
+    "height": 8.0,
+    "pitch": 20.0,
+    "toothHeight": 5.0
+  },
+  "AT5": {
+    "height": 2.7,
+    "pitch": 5.0,
+    "toothHeight": 1.2
+  },
+  "GT2": {
+    "height": 1.38,
+    "pitch": 2.0,
+    "toothHeight": 0.75
+  },
+  "H": {
+    "height": 4.3,
+    "pitch": 12.7,
+    "toothHeight": 2.3
+  },
+  "L": {
+    "height": 3.6,
+    "pitch": 9.525,
+    "toothHeight": 1.9
+  },
+  "T10": {
+    "height": 4.5,
+    "pitch": 10.0,
+    "toothHeight": 2.5
+  },
+  "T20": {
+    "height": 8.0,
+    "pitch": 20.0,
+    "toothHeight": 5.0
+  },
+  "T5": {
+    "height": 2.2,
+    "pitch": 5.0,
+    "toothHeight": 1.2
+  },
+  "XH": {
+    "height": 11.2,
+    "pitch": 22.225,
+    "toothHeight": 6.35
+  },
+  "XL": {
+    "height": 2.3,
+    "pitch": 5.08,
+    "toothHeight": 1.27
+  }
+}

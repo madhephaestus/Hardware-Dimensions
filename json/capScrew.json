@@ -1,0 +1,142 @@
+{
+  "M1.6": {
+    "headDiameter": 3.0,
+    "headHeight": 1.6,
+    "keyDepth": 0.9,
+    "keySize": 1.5,
+    "outerDiameter": 1.6
+  },
+  "M10": {
+    "headDiameter": 16.0,
+    "headHeight": 10.0,
+    "keyDepth": 5.0,
+    "keySize": 8.0,
+    "outerDiameter": 10.0
+  },
+  "M12": {
+    "headDiameter": 18.0,
+    "headHeight": 12.0,
+    "keyDepth": 6.0,
+    "keySize": 10.0,
+    "outerDiameter": 12.0
+  },
+  "M14": {
+    "headDiameter": 21.0,
+    "headHeight": 14.0,
+    "keyDepth": 7.0,
+    "keySize": 12.0,
+    "outerDiameter": 14.0
+  },
+  "M16": {
+    "headDiameter": 24.0,
+    "headHeight": 16.0,
+    "keyDepth": 8.0,
+    "keySize": 14.0,
+    "outerDiameter": 16.0
+  },
+  "M18": {
+    "headDiameter": 27.0,
+    "headHeight": 18.0,
+    "keyDepth": 9.0,
+    "keySize": 14.0,
+    "outerDiameter": 18.0
+  },
+  "M2": {
+    "headDiameter": 3.8,
+    "headHeight": 2.0,
+    "keyDepth": 0.9,
+    "keySize": 1.5,
+    "outerDiameter": 2.0
+  },
+  "M2.5": {
+    "headDiameter": 4.5,
+    "headHeight": 2.5,
+    "keyDepth": 1.0,
+    "keySize": 2.0,
+    "outerDiameter": 2.5
+  },
+  "M20": {
+    "headDiameter": 30.0,
+    "headHeight": 20.0,
+    "keyDepth": 10.0,
+    "keySize": 17.0,
+    "outerDiameter": 20.0
+  },
+  "M22": {
+    "headDiameter": 33.0,
+    "headHeight": 22.0,
+    "keyDepth": 11.0,
+    "keySize": 17.0,
+    "outerDiameter": 22.0
+  },
+  "M24": {
+    "headDiameter": 36.0,
+    "headHeight": 24.0,
+    "keyDepth": 12.0,
+    "keySize": 19.0,
+    "outerDiameter": 24.0
+  },
+  "M27": {
+    "headDiameter": 40.0,
+    "headHeight": 27.0,
+    "keyDepth": 13.5,
+    "keySize": 19.0,
+    "outerDiameter": 27.0
+  },
+  "M3": {
+    "headDiameter": 5.5,
+    "headHeight": 3.0,
+    "keyDepth": 1.3,
+    "keySize": 2.5,
+    "outerDiameter": 3.0
+  },
+  "M30": {
+    "headDiameter": 45.0,
+    "headHeight": 30.0,
+    "keyDepth": 15.5,
+    "keySize": 22.0,
+    "outerDiameter": 30.0
+  },
+  "M36": {
+    "headDiameter": 54.0,
+    "headHeight": 36.0,
+    "keyDepth": 19.0,
+    "keySize": 27.0,
+    "outerDiameter": 36.0
+  },
+  "M4": {
+    "headDiameter": 7.0,
+    "headHeight": 4.0,
+    "keyDepth": 2.0,
+    "keySize": 3.0,
+    "outerDiameter": 4.0
+  },
+  "M42": {
+    "headDiameter": 63.0,
+    "headHeight": 42.0,
+    "keyDepth": 24.0,
+    "keySize": 32.0,
+    "outerDiameter": 42.0
+  },
+  "M5": {
+    "headDiameter": 8.5,
+    "headHeight": 5.0,
+    "keyDepth": 2.5,
+    "keySize": 4.0,
+    "outerDiameter": 5.0
+  },
+  "M6": {
+    "headDiameter": 10.0,
+    "headHeight": 6.0,
+    "keyDepth": 3.0,
+    "keySize": 5.0,
+    "outerDiameter": 6.0
+  },
+  "M8": {
+    "headDiameter": 13.0,
+    "headHeight": 8.0,
+    "keyDepth": 4.0,
+    "keySize": 6.0,
+    "outerDiameter": 8.0
+  }
+}

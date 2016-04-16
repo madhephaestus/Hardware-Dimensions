@@ -1,0 +1,21 @@
+{
+  "standard4": {
+    "hornLength": 20.0,
+    "hornBaseDiameter": 12.6,
+    "hornThickness": 4.2,
+    "numberOfHornArms": 4.0,
+    "hornTipDiameter": 4.8
+  },
+  "meta": {
+    "scriptGit": "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git",
+    "scriptFile": "servoHorn.groovy",
+    "shaft": "true"
+  },
+  "standardMicro1": {
+    "hornLength": 16.7,
+    "hornBaseDiameter": 7.3,
+    "hornThickness": 5.9,
+    "numberOfHornArms": 1.0,
+    "hornTipDiameter": 3.5
+  }
+}
