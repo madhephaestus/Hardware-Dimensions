@@ -1,4 +1,18 @@
 {
+  "round_kevins": {
+    "caseScrewKeepawayLength": 2.5,
+    "caseHoleDiameter": 3.0,
+    "hornDiameter": "21.1",
+    "price": 0.01,
+    "topHoleCircleDiameter": 14.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "mountPlateToHornTop": 5.5,
+    "massCentroidZ": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massKg": 0.001,
+    "caseScrewHeadDiameter": 5.7
+  },
   "round": {
     "caseScrewKeepawayLength": 1.3,
     "caseHoleDiameter": 2.0,
