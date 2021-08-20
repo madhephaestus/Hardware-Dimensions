@@ -2,7 +2,7 @@
   "round_kevins": {
     "caseScrewKeepawayLength": 2.5,
     "caseHoleDiameter": 3.0,
-    "hornDiameter": "21.1",
+    "hornDiameter": 21.1,
     "price": 0.01,
     "topHoleCircleDiameter": 14.0,
     "massCentroidY": 0.0,
