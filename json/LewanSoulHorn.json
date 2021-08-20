@@ -22,7 +22,7 @@
     "massCentroidY": 0.0,
     "massCentroidX": 0.0,
     "mountPlateToHornTop": 6.83,
-    "massCentroidZ": 0.0,
+    "massCentroidZ": "0.01",
     "source": "https://commonwealthrobotics.com",
     "massKg": 0.001,
     "caseScrewHeadDiameter": 4.0
