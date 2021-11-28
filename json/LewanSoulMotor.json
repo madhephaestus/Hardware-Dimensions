@@ -51,7 +51,7 @@
     "body_x": 20.64,
     "bottomHoleDistanceFromCorner": 2.5,
     "cable_z": 4.3,
-    "MaxTorqueNewtonmeters": "2",
+    "MaxTorqueNewtonmeters": 2.0,
     "bottomShaftRetainingScrewHeadDiameter": 9.0,
     "massCentroidY": 0.0,
     "massCentroidX": 0.0,
