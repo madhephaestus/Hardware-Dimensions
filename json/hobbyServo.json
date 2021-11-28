@@ -65,7 +65,7 @@
     "flangeThickness": 2.0,
     "servoShaftSideHeight": 31.5,
     "massKg": 0.0138,
-    "servoThinDimentionThickness": "13"
+    "servoThinDimentionThickness": 13.0
   },
   "hv6214mg": {
     "MaxTorqueNewtonmeters": 1.4317709,
