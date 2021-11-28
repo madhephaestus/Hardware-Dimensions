@@ -30,7 +30,7 @@
   },
   "meta": {
     "actuator": "true",
-    "scriptGit": "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git",
+    "scriptGit": "https://github.com/keionbis/LewanSoulMotorCadGenerator.git",
     "scriptFile": "LewanSoulMotor.groovy"
   },
   "HTS_35H": {
@@ -51,12 +51,12 @@
     "body_x": 20.64,
     "bottomHoleDistanceFromCorner": 2.5,
     "cable_z": 4.3,
-    "MaxTorqueNewtonmeters": 2.0,
+    "MaxTorqueNewtonmeters": "2",
     "bottomShaftRetainingScrewHeadDiameter": 9.0,
     "massCentroidY": 0.0,
     "massCentroidX": 0.0,
     "shoulderDiameter": 13.0,
-    "massCentroidZ": "0.0",
+    "massCentroidZ": 0.0,
     "caseScrewHeadDiameter": 4.0,
     "bottomSquareMountHoleSize": 15.0,
     "massKg": 0.063,
