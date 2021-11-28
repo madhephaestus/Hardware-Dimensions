@@ -56,7 +56,7 @@
     "massCentroidY": 0.0,
     "massCentroidX": 0.0,
     "shoulderDiameter": 13.0,
-    "massCentroidZ": 0.0,
+    "massCentroidZ": "0.0",
     "caseScrewHeadDiameter": 4.0,
     "bottomSquareMountHoleSize": 15.0,
     "massKg": 0.063,
