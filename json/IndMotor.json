@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "actuator": "true",
+    "scriptGit": "https://github.com/digitalsoldier4/IndMotorCadGenerator.git",
+    "scriptFile": "IndMotor.groovy"
+  },
+  "sn": {
+    "MaxTorqueNewtonmeters": 0.001,
+    "price": 0.01,
+    "shaftSize": "5mm",
+    "lengthOfThing": 3.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "shaftType": "dShaft",
+    "MaxFreeSpeedRadPerSec": 1.0,
+    "massCentroidZ": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massKg": 0.001
+  }
+}
