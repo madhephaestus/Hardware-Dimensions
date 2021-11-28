@@ -8,7 +8,7 @@
     "caseHoleDiameter": 2.0,
     "price": 15.99,
     "shaftSize": "round_m3_bolts",
-    "bottomShaftDiameter": "6.0",
+    "bottomShaftDiameter": 6.0,
     "shaftType": "LewanSoulHorn",
     "bottomShaftLength": 4.0,
     "MaxFreeSpeedRadPerSec": 1.0,
