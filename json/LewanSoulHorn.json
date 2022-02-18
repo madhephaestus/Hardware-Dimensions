@@ -1,18 +1,4 @@
 {
-  "round_kevins": {
-    "caseScrewKeepawayLength": 2.5,
-    "caseHoleDiameter": 3.0,
-    "hornDiameter": 21.1,
-    "price": 0.01,
-    "topHoleCircleDiameter": 14.0,
-    "massCentroidY": 0.0,
-    "massCentroidX": 0.0,
-    "mountPlateToHornTop": 5.5,
-    "massCentroidZ": 0.0,
-    "source": "https://commonwealthrobotics.com",
-    "massKg": 0.001,
-    "caseScrewHeadDiameter": 5.7
-  },
   "round": {
     "caseScrewKeepawayLength": 1.3,
     "caseHoleDiameter": 2.0,
@@ -22,10 +8,24 @@
     "massCentroidY": 0.0,
     "massCentroidX": 0.0,
     "mountPlateToHornTop": 6.83,
-    "massCentroidZ": "0.01",
+    "massCentroidZ": 0.0,
     "source": "https://commonwealthrobotics.com",
     "massKg": 0.001,
     "caseScrewHeadDiameter": 4.0
+  },
+  "fordemo_m3_round": {
+    "caseScrewKeepawayLength": 2.5,
+    "caseHoleDiameter": 3.0,
+    "hornDiameter": 22.0,
+    "price": 0.01,
+    "topHoleCircleDiameter": 14.0,
+    "massCentroidY": 0.0,
+    "massCentroidX": 0.0,
+    "mountPlateToHornTop": 4.5,
+    "massCentroidZ": 0.0,
+    "source": "https://commonwealthrobotics.com",
+    "massKg": 0.001,
+    "caseScrewHeadDiameter": 5.7
   },
   "meta": {
     "scriptGit": "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git",
@@ -33,7 +33,7 @@
     "shaft": "true"
   },
   "round_m3_bolts": {
-    "caseScrewKeepawayLength": 2.5,
+    "caseScrewKeepawayLength": 4.0,
     "caseHoleDiameter": 3.0,
     "hornDiameter": 21.0,
     "price": 0.01,
