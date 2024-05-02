@@ -1,46 +1,46 @@
 {
-   "Steel 5": {
+  "Aluminum 5": {
+    "thickness": 1.6002,
     "holeCountWidth": 1.0,
-    "holeCountLength": 5.0,
-    "thickness": 1.1684
+    "holeCountLength": 5.0
   },
-   "Steel 10": {
+  "Aluminum 10": {
+    "thickness": 1.6002,
     "holeCountWidth": 1.0,
-    "holeCountLength": 10.0,
-    "thickness": 1.1684
+    "holeCountLength": 10.0
   },
-   "Steel 15": {
+  "Steel 5": {
+    "thickness": 1.1684,
     "holeCountWidth": 1.0,
-    "holeCountLength": 15.0,
-    "thickness": 1.1684
-  },
-   "Steel 35": {
-    "holeCountWidth": 1.0,
-    "holeCountLength": 35.0,
-    "thickness": 1.1684
-  },
-   "Aluminum 5": {
-    "holeCountWidth": 1.0,
-    "holeCountLength": 5.0,
-    "thickness": 1.6002
-  },
-   "Aluminum 10": {
-    "holeCountWidth": 1.0,
-    "holeCountLength": 10.0,
-    "thickness": 1.6002
-  },
-   "Aluminum 15": {
-    "holeCountWidth": 1.0,
-    "holeCountLength": 15.0,
-    "thickness": 1.6002
-  },
-   "Aluminum 35": {
-    "holeCountWidth": 5.0,
-    "holeCountLength": 35.0,
-    "thickness": 1.6002
+    "holeCountLength": 5.0
   },
   "meta": {
-      "scriptGit": "https://github.com/madhephaestus/VexVitaminScripts.git",
-      "scriptFile": "scripts/Lchannel.groovy"
+    "scriptGit": "https://github.com/madhephaestus/VexVitaminScripts.git",
+    "scriptFile": "scripts/Lchannel.groovy"
+  },
+  "Steel 15": {
+    "thickness": 1.1684,
+    "holeCountWidth": 1.0,
+    "holeCountLength": 15.0
+  },
+  "Aluminum 35": {
+    "thickness": 1.6002,
+    "holeCountWidth": 5.0,
+    "holeCountLength": 35.0
+  },
+  "Steel 35": {
+    "thickness": 1.1684,
+    "holeCountWidth": 1.0,
+    "holeCountLength": 35.0
+  },
+  "Steel 10": {
+    "thickness": 1.1684,
+    "holeCountWidth": 1.0,
+    "holeCountLength": 10.0
+  },
+  "Aluminum 15": {
+    "thickness": 1.6002,
+    "holeCountWidth": 1.0,
+    "holeCountLength": 15.0
   }
 }
